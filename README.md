@@ -6,9 +6,9 @@ Since web development is growing so fast, I have enforced myself to been equiped
 
 I love building software with a devops mindset in a context of innovation, following best practices and taking care about technology.
 
-## Skills
+## Main Tech skills
 
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
+[![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)]()
 ![](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000)
