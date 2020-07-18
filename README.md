@@ -19,7 +19,6 @@ I love building software using a devops mindset in a context of innovation, foll
 
 ![](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white&labelColor=000000)
-
 </br>
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
@@ -28,6 +27,8 @@ I love building software using a devops mindset in a context of innovation, foll
 
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=nginx&logoColor=white&labelColor=000000)
+</br>
+
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
