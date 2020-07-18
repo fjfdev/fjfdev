@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a **software engineer** with more than 5 years of experience in sofware development. My main activity has been focused on **web development** in their different areas.
+I am a **software engineer** with 6+ years of experience in sofware development. My main activity has been focused on **web development** in their different areas.
 
 Since web development is growing so fast, I have enforced myself to been equiped with skills for jumping from one context to another and be ready for embracing changes when they come.
 
-I love building software using a devops mindset in a context of innovation, following best practices and taking care about technology.
+I love building software with a devops mindset in a context of innovation, following best practices and taking care about technology.
 
 ## Skills
 
